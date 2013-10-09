@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Universal Pos</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Inventory">Inventory</string>
+    <string name="Sale">Sale</string>
+    <string name="Customer">Customer</string>
+    <string name="History">History</string>
+    <string name="title_activity_invenroty">Invenroty</string>
+    <string name="title_activity_inventory">Inventory</string>
+    <string name="title_activity_sale">Sale</string>
+    <string name="title_activity_customer">Customer</string>
+    <string name="title_activity_history">History</string>
+    <string name="title_activity_add_inventory">AddInventory</string>
+
+</resources>
